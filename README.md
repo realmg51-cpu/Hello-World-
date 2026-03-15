@@ -6,3 +6,7 @@ This repo writed by:
 - C++
 - Lua
 - Python
+- Javascript
+- Batch
+- Shell
+- Kotlin
