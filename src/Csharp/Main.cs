@@ -3,7 +3,7 @@ namespace HelloInCs
 {
   class program
   {
-    static void Main()
+    static void Main(string[] args)
     {
       Console.WriteLine("Hello World!");
     }
